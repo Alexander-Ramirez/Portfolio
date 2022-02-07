@@ -15,13 +15,13 @@ const ContactPage = () => {
             Send me an Email or connect on social media:
           </p>
           <div className='social-icons'>
-            <a href='https://github.com/Alexander-Ramirez/'>
+            <a href='https://github.com/Alexander-Ramirez/' target="_blank" rel="noopener noreferrer">
               Github
             </a>
-            <a href='https://www.linkedin.com/idk'>
+            <a href='https://www.linkedin.com/in/alexander-ramirez-b44445224/' target="_blank" rel="noopener noreferrer">
              Linkedin
             </a>
-            <a href='aleramirez201@gmail.com'>
+            <a href='mailto: aleramirez201@gmail.com'>
              Gmail
             </a>
           </div>
