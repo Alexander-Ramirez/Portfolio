@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/css/main.7c579fd0.css",
-    "main.js": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/js/main.c57d0a9a.js",
-    "static/js/787.1ed0c42c.chunk.js": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/index.html",
-    "main.7c579fd0.css.map": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/css/main.7c579fd0.css.map",
-    "main.c57d0a9a.js.map": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/js/main.c57d0a9a.js.map",
-    "787.1ed0c42c.chunk.js.map": "/%7Bhttps://alexander-ramirez.github.io/Portfolio%7D/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.7c579fd0.css",
+    "main.js": "/Portfolio/static/js/main.130c0f18.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Portfolio/index.html",
+    "main.7c579fd0.css.map": "/Portfolio/static/css/main.7c579fd0.css.map",
+    "main.130c0f18.js.map": "/Portfolio/static/js/main.130c0f18.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c579fd0.css",
-    "static/js/main.c57d0a9a.js"
+    "static/js/main.130c0f18.js"
   ]
 }
