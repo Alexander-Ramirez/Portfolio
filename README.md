@@ -2,7 +2,7 @@
 Hello this is my portfolio repo if you are looking for my actual website just look below
 
 ## Link 
-Heroku Link: https://alexander-ramirez.github.io/Portfolio/
+https://alexander-ramirez.github.io/Portfolio/
   
 ## Contributers
 Only my self
